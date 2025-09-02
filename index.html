@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pong Game</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <canvas id="gameCanvas"></canvas>
+    <div id="difficultyMenu">
+        <button class="difficulty-btn" data-speed="1">Easy</button>
+        <button class="difficulty-btn" data-speed="2">Medium</button>
+        <button class="difficulty-btn" data-speed="3">Hard</button>
+    </div>
+    <div id="highScore">High Score: <span id="scoreValue">0</span></div>
+    <button id="pausePlayBtn">Pause</button>
+    <script src="game.js"></script>
+</body>
+</html>
