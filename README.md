@@ -1,4 +1,5 @@
 User Guide: Modern Web-Based Pong Game
+
 1. Getting Started
 This modern Pong game, built with HTML5 Canvas, CSS, and JavaScript, features single-player gameplay against an AI with adjustable difficulty, neon visuals, high score tracking, and pause/play functionality. It meets Unicaf’s Project 2 requirements, serving as an educational tool for game development, AI, and web technologies.
 
